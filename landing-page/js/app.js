@@ -78,7 +78,7 @@ navigation.addEventListener('click' ,(tosec) => {
   tosec.preventDefault();
   if (tosec.target.dataset.nav) {
     document.getElementById(`${tosec.target.dataset.nav}`).scrollIntoView({behavior: "smooth"});
-    setTimeout(() => {
+    setTimeout(() => { // for a smooth scroll
       location.hash = `${tosec.target.dataset.nav}`;
     }, 471);
   }
