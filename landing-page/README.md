@@ -1,6 +1,23 @@
-# Osama's Landing Page Project
+# Landing Page Project
 
-# TO get stared 
-after unzipping the files just opean the index html in any wepsite and put the app js and style.css in  the same file with indexHtml.
-# Is the code hard to understanding ?
-nope it's very east to read if you have basic understanding of JS.
+### Table of Contents
+
+* [Introduction](#introduction)
+* [Features](#features)
+
+### Introduction
+
+This project is part of the Egypt-FWD initiative with Udacity in Web Development Professional Track.
+
+## Features
+
+#### Main Features
+
+1. Create the Navigation bar dynamically.
+2. Scroll to any section by clicking on the corresponding element in the Navbar.
+3. By scrolling, the section in the viewport get detected and stylized.
+4. 
+
+### Developer
+
+**[Osama Magdy]**
